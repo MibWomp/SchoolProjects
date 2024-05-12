@@ -1,2 +1,2 @@
 # SchoolProjects
-storing my code from classes online ;D
+projects/assignment solutions from school 
